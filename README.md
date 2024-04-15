@@ -190,7 +190,7 @@ git log
 > 더 깊이있게 git을 배우고 싶니?
 >
 > 한국어 강의
->[코딩애플 쉽게 설명하는 git 강의 1~3편](https://www.youtube.com/watch?v
+>[코딩애플 쉽게 설명하는 git 강의 1~3편](https://www.youtube.com/watch?v=sly2u8BIi9E)
 >[생활코딩 지옥에서 온 깃](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 > 
 > 한국어 자료
