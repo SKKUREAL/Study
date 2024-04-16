@@ -14,8 +14,8 @@
 깃을 사용하기 전에 사용자 이름과 이메일 주소를 설정하셔야 합니다. 이 정보는 깃이 누가 어떤 변경을 했는지를 기록할 때 사용됩니다. 터미널에서 다음 명령어를 입력해 보세요:
 
 ```bash
-git config --global user.name "당신의 이름"
-git config --global user.email "당신의 이메일 주소"
+git config --global user.name "github에 설정한 당신의 이름"
+git config --global user.email "github 상 당신의 이메일 주소"
 ```
 
 ### 3. 깃 저장소 만들기
